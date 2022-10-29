@@ -1,3 +1,4 @@
+alsa-ucm-conf
 alsa-utils
 angelfish
 bash-completion
@@ -8,9 +9,11 @@ breeze
 breeze-gtk
 buho
 calindori
+curl
 desktop-file-utils
 dhcpcd
 discover
+dkms
 dnsmasq
 drkonqi
 #kasts
@@ -21,12 +24,14 @@ kongress
 ktrip
 elisa
 ffmpegthumbs
+flatpak
 glibc-locales
 gst-libav
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-ugly
 hfd-service
+iio-sensor-proxy
 index-fm
 inxi
 irqbalance
@@ -76,6 +81,7 @@ plasma-nano
 plasma-pa
 plasma-phonebook
 plasma-settings
+plocate
 plymouth-shim
 polkit-kde-agent
 powerdevil
@@ -86,10 +92,12 @@ qqc2-breeze-style
 qt5-tools
 qt5-wayland
 sddm
+sof-firmware
 spacebar
 sudo
 telegram-desktop
 telepathy-mission-control
+thermald
 unarchiver
 wget
 xdg-desktop-portal-kde
